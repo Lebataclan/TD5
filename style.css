@@ -1,0 +1,22 @@
+h1
+{
+color : red;
+text-decoration : underline;
+width : 120%;
+font-family : Times New Roman;
+}
+
+h2
+{
+color : purple;
+text-decoration : overline;
+font-size : 110%;
+font-family: "Arial black" ;
+}
+
+body
+{
+background-image: url("http://www.propokemon.com/wp-content/uploads/2014/06/raichu_vector_by_jcos88-d5gsw59.png");
+background-repeat:repeat-x;
+background-attachement:fixed;
+}
